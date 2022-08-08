@@ -1,0 +1,46 @@
+h1{
+    width: 600px;
+    margin-left: 450px;
+    font-family: "Segoe UI";
+}
+
+h3{
+    width: 600px;
+    margin-left: 400px;
+    font-family: "Segoe UI";
+}
+hr{
+    width: 750px;
+    margin-left: 400px;
+
+}
+ul{
+    width: 600px;
+    margin-left: 400px;
+    font-family: Vn3DH;
+    color: gray;
+
+}
+img{
+    width: 600px;
+    margin-left: 500px;
+}
+p{
+    width: 550px;
+    margin-left: 500px;
+}
+div.con1 {
+    display: flex;
+    width: 600px;
+}
+
+img.con1{
+    width: 290px;
+    margin-right: 10px;
+    height: 250px;
+}
+img.con2{
+    width: 300px;
+    height: 250px;
+
+}
